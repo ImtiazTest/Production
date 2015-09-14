@@ -2,3 +2,4 @@
 
 This is test file 
 Removed the conflicts
+added in branch fix1
